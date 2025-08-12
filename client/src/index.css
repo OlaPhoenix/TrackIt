@@ -4,8 +4,13 @@
   box-sizing: border-box;
 }
 
-
 .content{
   height: 80vh;
 }
 
+.register-page{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
