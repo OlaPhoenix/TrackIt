@@ -1,5 +1,5 @@
 {
-  "name": "expense-tracker",
+  "name": "trackit",
   "version": "1.0.0",
   "main": "server.js",
   "description": "",
@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "colors": "^1.4.0",
     "concurrently": "^9.2.1",
