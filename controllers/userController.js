@@ -21,6 +21,7 @@ const loginController = async (req,res) => {
     }
 };
 
+
 //Register callback
 
 const registerController = async (req,res) => {

@@ -30,6 +30,7 @@ const getAllTransactions = async (req, res) => {
   }
 };
 
+
 const deleteTransaction = async (req,res) => {
   try{
     await transactionModel.findOneAndDelete({_id:req.body.transactionId})
